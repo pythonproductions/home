@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Python Production House logo: a coiled snake forming the letter P inside a circle">
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#C89B4A" stroke-opacity="0.35" stroke-width="2.5"/>
+  <g fill="none" stroke="#C89B4A" stroke-width="13" stroke-linecap="round">
+    <path d="M62 44 L62 160"/>
+    <path d="M62 44 A34 34 0 0 1 62 112"/>
+  </g>
+  <ellipse cx="52" cy="114" rx="16" ry="9.5" fill="#C89B4A" transform="rotate(-12 52 114)"/>
+  <circle cx="46" cy="111" r="2.6" fill="#0A1210"/>
+  <g fill="none" stroke="#C89B4A" stroke-width="3" stroke-linecap="round">
+    <path d="M37 116 L26 116"/>
+    <path d="M26 116 L20 112"/>
+    <path d="M26 116 L20 120"/>
+  </g>
+</svg>
